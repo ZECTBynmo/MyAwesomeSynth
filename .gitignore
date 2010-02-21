@@ -11,3 +11,6 @@ mac/build/*
 # osx noise
 .DS_Store
 profile
+
+# emacs noise
+.#*
