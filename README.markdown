@@ -1,8 +1,8 @@
 # MyAwesomeSynth
 
-Author: Matt Sonic
-Purpose: Demonstrate a simple synthesizer using JUCE.
-Language: C++
+* Author: Matt Sonic
+* Purpose: Demonstrate a simple synthesizer using JUCE.
+* Language: C++
 
 ## Features
 
