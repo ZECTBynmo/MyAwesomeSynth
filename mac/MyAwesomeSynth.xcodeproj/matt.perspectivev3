@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Debug</string>
+	<string>Project</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -365,11 +365,15 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>65</integer>
+									<integer>33</integer>
+									<integer>23</integer>
+									<integer>15</integer>
+									<integer>1</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 622}, {329, 559}}</string>
+							<string>{{0, 201}, {329, 559}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -387,6 +391,8 @@
 							<string>MainColumn</string>
 							<real>307</real>
 						</array>
+						<key>RubberWindowFrame</key>
+						<string>150 115 1007 640 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -402,7 +408,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>C97EF1530E2D534D003561BC</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>SynthVoice.cpp</string>
+								<string>FilterParameterManager.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -410,16 +416,15 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>C99F705D1112B45600ACF002</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>SynthVoice.cpp</string>
+										<string>FilterParameterManager.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C9B2B6161130D1A200982DE9</string>
+										<string>C9B2B62B1130D62600982DE9</string>
 										<key>history</key>
 										<array>
 											<string>C9D6C5D3111E4C45003C4096</string>
 											<string>C9D6C5D4111E4C45003C4096</string>
-											<string>C9D6C5D5111E4C45003C4096</string>
 											<string>C9D6C635111E4FCB003C4096</string>
 											<string>C9D6C680111E5521003C4096</string>
 											<string>C9D6C681111E5521003C4096</string>
@@ -438,7 +443,12 @@
 											<string>C9B2B5FF1130D06600982DE9</string>
 											<string>C9B2B6001130D06600982DE9</string>
 											<string>C9B2B6011130D06600982DE9</string>
-											<string>C9B2B6121130D19500982DE9</string>
+											<string>C9B2B6241130D62600982DE9</string>
+											<string>C9B2B6251130D62600982DE9</string>
+											<string>C9B2B6271130D62600982DE9</string>
+											<string>C9B2B6281130D62600982DE9</string>
+											<string>C9B2B6291130D62600982DE9</string>
+											<string>C9B2B62A1130D62600982DE9</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -453,6 +463,8 @@
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 0}, {656, 412}}</string>
+								<key>RubberWindowFrame</key>
+								<string>150 115 1007 640 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -491,7 +503,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1003, 211}}</string>
+										<string>{{10, 27}, {656, 133}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXProjectFindModule</string>
@@ -530,6 +542,8 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {656, 133}}</string>
+										<key>RubberWindowFrame</key>
+										<string>150 115 1007 640 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -601,8 +615,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXProjectModuleGUID</key>
@@ -614,8 +626,6 @@
 					<dict>
 						<key>Frame</key>
 						<string>{{0, 0}, {1007, 164}}</string>
-						<key>RubberWindowFrame</key>
-						<string>150 115 1007 640 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -690,11 +700,7 @@
 							</array>
 							<key>Frame</key>
 							<string>{{504, 0}, {503, 204}}</string>
-							<key>RubberWindowFrame</key>
-							<string>150 115 1007 640 0 0 1280 778 </string>
 						</dict>
-						<key>RubberWindowFrame</key>
-						<string>150 115 1007 640 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -741,7 +747,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>288412066.33994299</real>
+	<real>288413222.26714802</real>
 	<key>ToolbarDisplayMode</key>
 	<integer>1</integer>
 	<key>ToolbarIsVisible</key>
@@ -756,7 +762,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C9B2B6171130D1A200982DE9</string>
 		<string>C9B2B6111130D11B00982DE9</string>
 		<string>C9B2B60A1130D0A200982DE9</string>
 		<string>/Users/matt/Documents/code/juce/my/MyAwesomeSynth/mac/MyAwesomeSynth.xcodeproj</string>
