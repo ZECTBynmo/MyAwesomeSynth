@@ -414,7 +414,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C9B2B6101130D11B00982DE9</string>
+										<string>C9B2B6161130D1A200982DE9</string>
 										<key>history</key>
 										<array>
 											<string>C9D6C5D3111E4C45003C4096</string>
@@ -438,7 +438,7 @@
 											<string>C9B2B5FF1130D06600982DE9</string>
 											<string>C9B2B6001130D06600982DE9</string>
 											<string>C9B2B6011130D06600982DE9</string>
-											<string>C9B2B6061130D09B00982DE9</string>
+											<string>C9B2B6121130D19500982DE9</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -741,7 +741,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>288411931.22148597</real>
+	<real>288412066.33994299</real>
 	<key>ToolbarDisplayMode</key>
 	<integer>1</integer>
 	<key>ToolbarIsVisible</key>
@@ -756,8 +756,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>C9B2B6171130D1A200982DE9</string>
 		<string>C9B2B6111130D11B00982DE9</string>
-		<string>C9B2B6091130D0A200982DE9</string>
 		<string>C9B2B60A1130D0A200982DE9</string>
 		<string>/Users/matt/Documents/code/juce/my/MyAwesomeSynth/mac/MyAwesomeSynth.xcodeproj</string>
 	</array>
